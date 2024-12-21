@@ -8,4 +8,4 @@ This is a reimplementation of Microsoft Cortana, a discontinued virtual assistan
 Simply put, it's nostalgic and I have too much time on my hands.
 
 # How do I use it?
-You can either download the source code and upload it to a web server, or you can just use it at cortanarevival.github.io
+You can either download the source code and upload it to a web server, or you can just use it at buttonstinks.cc/cortanarevival.github.io
